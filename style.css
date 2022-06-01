@@ -1,0 +1,24 @@
+/*Universal Selector*/
+*{
+    box-sizing: border-box;
+}
+
+/*Class Selector*/
+/*style button*/
+.btn{
+    display: block;
+    padding: 5px;
+    margin: 10px;
+    width: 38%;
+}
+    
+
+.city-group{
+    margin-right: 50px;
+}
+
+/*id selector*/
+#weather-forecast {
+    position: absolute;
+    left: -5%;
+}
